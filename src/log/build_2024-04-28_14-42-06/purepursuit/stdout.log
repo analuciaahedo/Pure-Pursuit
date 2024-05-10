@@ -1,0 +1,26 @@
+running egg_info
+writing ../build/purepursuit/purepursuit.egg-info/PKG-INFO
+writing dependency_links to ../build/purepursuit/purepursuit.egg-info/dependency_links.txt
+writing entry points to ../build/purepursuit/purepursuit.egg-info/entry_points.txt
+writing requirements to ../build/purepursuit/purepursuit.egg-info/requires.txt
+writing top-level names to ../build/purepursuit/purepursuit.egg-info/top_level.txt
+reading manifest file '../build/purepursuit/purepursuit.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/purepursuit/purepursuit.egg-info/SOURCES.txt'
+running build
+running build_py
+copying purepursuit/purepursuit.py -> /home/anavale/ros2_ws1/src/build/purepursuit/build/lib/purepursuit
+running install
+running install_lib
+copying /home/anavale/ros2_ws1/src/build/purepursuit/build/lib/purepursuit/purepursuit.py -> /home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages/purepursuit
+byte-compiling /home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages/purepursuit/purepursuit.py to purepursuit.cpython-310.pyc
+running install_data
+copying package.xml -> /home/anavale/ros2_ws1/src/install/purepursuit/share/purepursuit
+creating /home/anavale/ros2_ws1/src/install/purepursuit/share/purepursuit/launch
+copying launch/pure.launch.py -> /home/anavale/ros2_ws1/src/install/purepursuit/share/purepursuit/launch
+running install_egg_info
+removing '/home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages/purepursuit-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/purepursuit/purepursuit.egg-info to /home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages/purepursuit-0.0.0-py3.10.egg-info
+running install_scripts
+Installing purepursuit script to /home/anavale/ros2_ws1/src/install/purepursuit/lib/purepursuit
+writing list of installed files to '/home/anavale/ros2_ws1/src/build/purepursuit/install.log'

@@ -1,0 +1,25 @@
+[0.630s] Invoking command in '/home/anavale/ros2_ws1/src/purepursuit': PYTHONPATH=/home/anavale/ros2_ws1/src/build/purepursuit/prefix_override:/home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/purepursuit build --build-base /home/anavale/ros2_ws1/src/build/purepursuit/build install --record /home/anavale/ros2_ws1/src/build/purepursuit/install.log --single-version-externally-managed install_data
+[0.842s] running egg_info
+[0.842s] writing ../build/purepursuit/purepursuit.egg-info/PKG-INFO
+[0.865s] writing dependency_links to ../build/purepursuit/purepursuit.egg-info/dependency_links.txt
+[0.865s] writing entry points to ../build/purepursuit/purepursuit.egg-info/entry_points.txt
+[0.865s] writing requirements to ../build/purepursuit/purepursuit.egg-info/requires.txt
+[0.865s] writing top-level names to ../build/purepursuit/purepursuit.egg-info/top_level.txt
+[0.867s] reading manifest file '../build/purepursuit/purepursuit.egg-info/SOURCES.txt'
+[0.883s] adding license file 'LICENSE'
+[0.884s] writing manifest file '../build/purepursuit/purepursuit.egg-info/SOURCES.txt'
+[0.884s] running build
+[0.884s] running build_py
+[0.904s] copying purepursuit/purepursuit.py -> /home/anavale/ros2_ws1/src/build/purepursuit/build/lib/purepursuit
+[0.905s] running install
+[0.905s] running install_lib
+[0.916s] copying /home/anavale/ros2_ws1/src/build/purepursuit/build/lib/purepursuit/purepursuit.py -> /home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages/purepursuit
+[0.926s] byte-compiling /home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages/purepursuit/purepursuit.py to purepursuit.cpython-310.pyc
+[0.928s] running install_data
+[0.980s] running install_egg_info
+[0.983s] removing '/home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages/purepursuit-0.0.0-py3.10.egg-info' (and everything under it)
+[0.984s] Copying ../build/purepursuit/purepursuit.egg-info to /home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages/purepursuit-0.0.0-py3.10.egg-info
+[0.986s] running install_scripts
+[1.027s] Installing purepursuit script to /home/anavale/ros2_ws1/src/install/purepursuit/lib/purepursuit
+[1.028s] writing list of installed files to '/home/anavale/ros2_ws1/src/build/purepursuit/install.log'
+[1.067s] Invoked command in '/home/anavale/ros2_ws1/src/purepursuit' returned '0': PYTHONPATH=/home/anavale/ros2_ws1/src/build/purepursuit/prefix_override:/home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/purepursuit build --build-base /home/anavale/ros2_ws1/src/build/purepursuit/build install --record /home/anavale/ros2_ws1/src/build/purepursuit/install.log --single-version-externally-managed install_data

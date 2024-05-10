@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing purepursuit.egg-info/PKG-INFO
+writing dependency_links to purepursuit.egg-info/dependency_links.txt
+writing entry points to purepursuit.egg-info/entry_points.txt
+writing requirements to purepursuit.egg-info/requires.txt
+writing top-level names to purepursuit.egg-info/top_level.txt
+reading manifest file 'purepursuit.egg-info/SOURCES.txt'
+writing manifest file 'purepursuit.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages/purepursuit.egg-link (link to .)
+Installing purepursuit script to /home/anavale/ros2_ws1/src/install/purepursuit/lib/purepursuit
+
+Installed /home/anavale/ros2_ws1/src/build/purepursuit
+running symlink_data
+symbolically linking /home/anavale/ros2_ws1/src/build/purepursuit/resource/purepursuit -> /home/anavale/ros2_ws1/src/install/purepursuit/share/ament_index/resource_index/packages
+symbolically linking /home/anavale/ros2_ws1/src/build/purepursuit/package.xml -> /home/anavale/ros2_ws1/src/install/purepursuit/share/purepursuit
+symbolically linking /home/anavale/ros2_ws1/src/build/purepursuit/launch/pure.launch.py -> /home/anavale/ros2_ws1/src/install/purepursuit/share/purepursuit/launch

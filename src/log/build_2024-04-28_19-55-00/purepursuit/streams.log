@@ -1,0 +1,22 @@
+[0.898s] Invoking command in '/home/anavale/ros2_ws1/src/build/purepursuit': PYTHONPATH=/home/anavale/ros2_ws1/src/build/purepursuit/prefix_override:/home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/anavale/ros2_ws1/src/build/purepursuit/build --no-deps symlink_data --force
+[1.299s] running develop
+[1.299s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.299s]   warnings.warn(
+[1.505s] running egg_info
+[1.505s] writing purepursuit.egg-info/PKG-INFO
+[1.506s] writing dependency_links to purepursuit.egg-info/dependency_links.txt
+[1.506s] writing entry points to purepursuit.egg-info/entry_points.txt
+[1.506s] writing requirements to purepursuit.egg-info/requires.txt
+[1.506s] writing top-level names to purepursuit.egg-info/top_level.txt
+[1.508s] reading manifest file 'purepursuit.egg-info/SOURCES.txt'
+[1.509s] writing manifest file 'purepursuit.egg-info/SOURCES.txt'
+[1.510s] running build_ext
+[1.510s] Creating /home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages/purepursuit.egg-link (link to .)
+[1.511s] Installing purepursuit script to /home/anavale/ros2_ws1/src/install/purepursuit/lib/purepursuit
+[1.511s] 
+[1.512s] Installed /home/anavale/ros2_ws1/src/build/purepursuit
+[1.512s] running symlink_data
+[1.512s] symbolically linking /home/anavale/ros2_ws1/src/build/purepursuit/resource/purepursuit -> /home/anavale/ros2_ws1/src/install/purepursuit/share/ament_index/resource_index/packages
+[1.512s] symbolically linking /home/anavale/ros2_ws1/src/build/purepursuit/package.xml -> /home/anavale/ros2_ws1/src/install/purepursuit/share/purepursuit
+[1.512s] symbolically linking /home/anavale/ros2_ws1/src/build/purepursuit/launch/pure.launch.py -> /home/anavale/ros2_ws1/src/install/purepursuit/share/purepursuit/launch
+[1.550s] Invoked command in '/home/anavale/ros2_ws1/src/build/purepursuit' returned '0': PYTHONPATH=/home/anavale/ros2_ws1/src/build/purepursuit/prefix_override:/home/anavale/ros2_ws1/src/install/purepursuit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/anavale/ros2_ws1/src/build/purepursuit/build --no-deps symlink_data --force
